@@ -1,0 +1,7 @@
+checkpoints/
+__pycache__/
+example_output/goPredSim_GO_bpo_pred.csv
+example_output/goPredSim_GO_cco_pred.csv
+example_output/goPredSim_GO_mfo_pred.csv
+example_output/membrane_tmbed.txt
+example_output/seth_disorder_pred.csv
